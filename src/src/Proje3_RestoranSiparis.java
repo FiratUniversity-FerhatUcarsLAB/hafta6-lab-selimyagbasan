@@ -5,12 +5,6 @@
  * Tarih: 19.11.2025
  */
 
-/**
- * Ad Soyad: Selim Yağbasan
- * Numara: 250541111
- * Proje: Akıllı Restoran Sipariş Sistemi (Görev 3)
- * Tarih: 2025
- */
 
 import java.util.Scanner;
 
